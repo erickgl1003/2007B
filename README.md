@@ -1,6 +1,5 @@
-# 2007B
+# Integración de seguridad informática en redes y sistemas de software 
 
-## Something goes here
 ### Luis Cano Irigoyen	 			A00827178
 ### Axel Giovanni Villanueva Cuéllar		A00828073
 ### Lourdes Badillo		 			A01024232
